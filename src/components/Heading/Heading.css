@@ -1,0 +1,11 @@
+h1{
+  font-size: 30px;
+  color: aqua;
+  text-align: center;
+}
+@media screen and (max-width:767px) {
+   h1{
+    font-size: 25px;
+     margin-bottom: 30px;
+   }
+}

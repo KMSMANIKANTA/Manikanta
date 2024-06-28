@@ -58,7 +58,7 @@ position: relative;
   .navbar{
     display: flex;
     color:black;
-    z-index: 100000;
+    z-index: 1000000100110;
     align-items: center;
   }
   .logo{
