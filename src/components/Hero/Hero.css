@@ -18,6 +18,7 @@
   justify-content: center;
   align-items: center;
   background-color: red;z-index: -10000;
+  
 }
 .image img{
   margin-top: 160px;
@@ -39,26 +40,29 @@
   font-size: 25px;;z-index: -10000;
 }
 .content h2 {
-  font-size: 30px;
+  font-size: 26px;
   color: white;
   font-weight: 600;
-  line-height: 1.5;z-index: -10000;
+  line-height: 1.2;z-index: -10000;
+  margin-bottom: 5px;
+
 }
 
 .content h1 {
-  font-size: 40px;
+  font-size: 35px;
   color: white;
+  margin-top: 4px;
   font-weight: 700;
-  line-height: 1.4;z-index: -10000;
+  margin-bottom: 10px;
+  line-height: 1.2;z-index: -10000;
 }
-
 .content .text {
   font-weight: bold;
   color: #0ef;z-index: -10000;
 }
 
-.content p {
-  margin-top: 20px;
+.content p{
+  margin-top: 10px;
   font-size: 18px;
   color: white;
   line-height: 1.2;z-index: -10000;
@@ -147,7 +151,7 @@ img {
   }
   .content{
     width:90%;
-    margin-top: 200px;
+    margin-top: 100px;
     display: flex;
     flex-direction: column;
     margin: auto;

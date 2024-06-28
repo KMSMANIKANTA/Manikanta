@@ -56,7 +56,7 @@ const Skills = () => {
         <img src={c} alt="" />
         <p>C</p>
       </div>
-      <div className="course" data-aos='fade-right'>
+      <div className="course" data-aos='fade-righ'>
         <img src={java} alt="" />
         <p>Java</p>
       </div>
