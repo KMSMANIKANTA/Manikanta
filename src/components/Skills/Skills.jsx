@@ -23,36 +23,36 @@ const Skills = () => {
     <>
     <p className='first'>My technical skills are as follows...</p>
     <div className='skills'>
-      <div className="course" data-aos='fade-right'>
+      <div className="course" data-aos='zoom-in'>
         <img src={html} alt="" />
         <p>HTML</p>
       </div>
-      <div className="course" data-aos='fade-left'>
+      <div className="course" data-aos='zoom-in'>
         <img src={css} alt="" />
         <p>CSS</p>
       </div>
       
-      <div className="course" data-aos='fade-right'>
+      <div className="course" data-aos='zoom-in'>
         <img src={javascript} alt="" />
         <p>JavaScript</p>
       </div>
-      <div className="course" data-aos='fade-left'>
+      <div className="course" data-aos='zoom-in'>
         <img src={bootstrap} alt="" />
         <p>Bootstrap</p>
       </div>
-      <div className="course" data-aos='fade-right'>
+      <div className="course" data-aos='zoom-in'>
         <img src={reactjs} alt="" />
         <p>React-Js</p>
       </div>
-      <div className="course" data-aos='fade-left'>
+      <div className="course" data-aos='zoom-in'>
         <img src={git} alt="" />
         <p>Git</p>
       </div>
-      <div className="course" data-aos='fade-right'>
+      <div className="course" data-aos='zoom-in'>
         <img src={tailwind} alt="" />
         <p>Tailwind</p>
       </div>
-      <div className="course" data-aos='fade-left'>
+      <div className="course" data-aos='zoom-in'>
         <img src={c} alt="" />
         <p>C</p>
       </div>
@@ -61,7 +61,7 @@ const Skills = () => {
         <p>Java</p>
       </div>
       
-      <div className="course" data-aos='fade-left'>
+      <div className="course" data-aos='zoom-in'>
         <img src={python} alt="" />
         <p>Python</p>
       </div>
