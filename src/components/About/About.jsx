@@ -27,7 +27,7 @@ const About = () => {
             <span className="question">Age</span>         :18years <br />
             <span className="question">Education</span>   :B-tech 1st year <br />
             <span className="question">District</span>    :East Godavari <br />
-            <span className="question">College</span>     :RGUKT IIIT NUZVID
+            <span className="question">College</span>     :RGUKT  NUZVID
             <br />
             <div className="line" >
               
