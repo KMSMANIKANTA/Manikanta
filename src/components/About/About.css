@@ -29,6 +29,7 @@
 .right .line{
   border-bottom: 1px solid gray;
   margin-bottom: 40px;z-index: -1000;
+  margin-top: 20px;
 }
 .right .personal{
   width:90%;
@@ -64,7 +65,7 @@
   }
   .about .right{
     width:100%;z-index: -1000;
-    
+    overflow-x: hidden;
   }
   .right .first-text{
     width:90%;
@@ -74,7 +75,7 @@
     width:90%;
     padding:10px;
     line-height: 1.5;z-index: -1000;
-
+    margin-left:5%;
   }
   .right .personal pre{
     background: transparent;z-index: -1000;

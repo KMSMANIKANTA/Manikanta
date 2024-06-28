@@ -1,0 +1,56 @@
+
+ .first{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 40px;
+  color:white;
+  width:500px;
+  margin:auto;
+}
+.skills {
+  width: 100%;
+  padding: 0px 200px;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.skills .course{
+  width:150px;
+  height:160px;
+  display: flex;
+  padding:10px;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid aqua;
+  border-radius: 10px;
+  align-items: center;
+  margin:15px 0px;
+  transition: 0.45s;
+}
+
+.course img{
+  width:100px;
+  height:100px;
+}
+.course p{
+  font-size: 20px;
+  color:white;
+}
+.course:hover{
+  border: 2px solid aqua;
+  box-shadow: 0px 0px 6px aquamarine;
+  transform: scale(1.03);
+
+}
+
+@media screen and (max-width:767px){
+  .skills{
+    padding:0px 10px;
+    display: flex;
+  }
+  .first{
+    width:90%;
+  }
+}
