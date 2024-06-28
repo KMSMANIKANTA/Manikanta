@@ -7,6 +7,7 @@ const App = () => {
     <div>
       <Navbar/>
       <Hero/>
+      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
      </div>
 
   )

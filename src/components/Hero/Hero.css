@@ -137,10 +137,48 @@ img {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    padding-top: 50px;
+    padding-top: 100px;
     align-items: center;
   }
   .image{
     margin:auto;
+  }
+  .content{
+    width:90%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  .content h2{
+    font-size: 20px;
+    text-align: center;
+  }
+  .content h1{
+    font-size: 25px;
+    text-align: center;
+  }
+  .content h2{
+    font-size: 20px;
+  }
+  .content p{
+    font-size: 18px;
+    width:90%;
+    margin: auto;
+  }
+  .content .icons{
+    display: flex;
+    width:80%;
+    align-items: center;
+    justify-content: space-between
+  }
+  .icons p{
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+   .icon{
+    font-size: 18px;
   }
 }
