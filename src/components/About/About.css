@@ -28,18 +28,16 @@
 
 .right .line{
   border-bottom: 1px solid gray;
-  margin-bottom: 40px;z-index: -1000;
-  margin-top: 20px;
+  width:80%;
+  margin:20px 5%;
 }
 .right .personal{
-  width:90%;
-  margin:auto;
   font-size: 20px;
   color:aqua;
-  line-height: 1.6;z-index: -1000;
-}
-.right .personal .question{
-  color:gray;z-index: -1000;
+  margin-top: 20px;
+  padding: 10px;
+  margin-bottom: 30px;
+
 }
 
 @media screen and (max-width:767px){
@@ -72,13 +70,10 @@
     margin: auto;z-index: -1000;
   }
   .right .personal{
-    width:90%;
-    padding:10px;
+    width:95%;
+    padding:4px;
     line-height: 1.5;z-index: -1000;
     margin-left:5%;
-  }
-  .right .personal pre{
-    background: transparent;z-index: -1000;
   }
 }
 

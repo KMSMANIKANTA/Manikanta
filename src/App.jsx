@@ -5,7 +5,6 @@ import About from './components/About/About'
 import Heading from './components/Heading/Heading'
 import Skills from './components/Skills/Skills'
 import Contact from './components/contact/Contact'
-
 const App = () => {
   
   return (
@@ -14,11 +13,12 @@ const App = () => {
       <Hero/>
       <Heading heading={"About Me"}/>
       <About/>
+      
       <Heading heading={"My Skills"}/>
       <Skills/>
-      <Heading heading={"Contact Me"}  />
-      
+      <Heading heading={'Contact me'}/>
       <Contact/>
+    
       <br /><br /><br />
       <br /><br /><br /><br /><br /><br /><br />
      </div>

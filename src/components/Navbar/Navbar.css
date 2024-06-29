@@ -12,8 +12,8 @@
 }
 .activeNav{
   background-color: #243762;
-  border-bottom: 2px solid gray;
-  box-shadow: 1px 1px 10px gray;
+  border-bottom: 1px solid gray;
+  box-shadow: 1px 1px 5px gray;
 }
 .logo{
   font-size: 20px;

@@ -27,41 +27,41 @@ const Skills = () => {
         <img src={html} alt="" />
         <p>HTML</p>
       </div>
-      <div className="course" data-aos='zoom-in' data-aos-delay="300">
+      <div className="course" data-aos='zoom-in' >
         <img src={css} alt="" />
         <p>CSS</p>
       </div>
       
-      <div className="course" data-aos='zoom-in' data-aos-delay="600">
+      <div className="course" data-aos='zoom-in'>
         <img src={javascript} alt="" />
         <p>JavaScript</p>
       </div>
-      <div className="course" data-aos='zoom-in' data-aos-delay="900">
+      <div className="course" data-aos='zoom-in'>
         <img src={bootstrap} alt="" />
         <p>Bootstrap</p>
       </div>
-      <div className="course" data-aos='zoom-in' data-aos-delay="1200">
+      <div className="course" data-aos='zoom-in' >
         <img src={reactjs} alt="" />
         <p>React-Js</p>
       </div>
-      <div className="course" data-aos='zoom-in' data-aos-delay='1500'>
+      <div className="course" data-aos='zoom-in' >
         <img src={git} alt="" />
         <p>Git</p>
       </div>
-      <div className="course" data-aos='zoom-in' data-aos-delay='1800'>
+      <div className="course" data-aos='zoom-in' >
         <img src={tailwind} alt="" />
         <p>Tailwind</p>
       </div>
-      <div className="course" data-aos='zoom-in' data-aos-delay="2100">
+      <div className="course" data-aos='zoom-in' >
         <img src={c} alt="" />
         <p>C</p>
       </div>
-      <div className="course" data-aos='zoom-in' data-aos-delay="2400">
+      <div className="course" data-aos='zoom-in' >
         <img src={java} alt="" />
         <p>Java</p>
       </div>
       
-      <div className="course" data-aos='zoom-in' data-aos-delay="2700">
+      <div className="course" data-aos='zoom-in' >
         <img src={python} alt="" />
         <p>Python</p>
       </div>

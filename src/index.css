@@ -3,9 +3,12 @@
   margin:0px;
   padding:0px;
   box-sizing: border-box;
+  font-family: poppins;
 }
 
 body{
-  background-color: #1b2845;
     background-image: linear-gradient(315deg, #1b2845 0%, #274060 74%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }

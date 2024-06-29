@@ -6,7 +6,6 @@
   margin-top: 10px;
   margin-bottom: 30px;
 }
-
 .up {
   display: flex;
   flex-direction: row;
@@ -128,10 +127,11 @@
   fill: white;
 }
 
-.icon{
-  font-size: 25px;
-}
+
 .card1,.card2,.card3,.card4 a{
   text-decoration: none;
   scale:1
+}
+.main .icon{
+  font-size: 25px;
 }

@@ -6,7 +6,7 @@
   margin-top: 50px;z-index: -1000;
 }
 
-.form {
+.contact .form {
   flex-basis: 60%;
   width: 600px;
   display: flex;
@@ -17,7 +17,7 @@
   border-radius: 10px;z-index: -1000;
 }
 
-.form input,
+.contact .form input,
 textarea {
   width: 90%;
   margin: 10px auto;
@@ -30,7 +30,7 @@ textarea {
   border: 1px solid aqua;z-index: -1000;
 }
 
-.form button {
+.contact .form button {
   width: 150px;
   color: aqua;
   background-color: #1b2845;
@@ -39,7 +39,7 @@ textarea {
   padding: 10px;z-index: -1000;
 }
 
-.form .status {
+.contact .form .status {
   width: 90%;
   margin: auto;
   margin-top: 20px;
@@ -55,7 +55,7 @@ textarea {
     flex-direction: column;
     margin-top: 50px;
   }
-  .form{
+ .contact .form{
     width:100%;
   }
 }
