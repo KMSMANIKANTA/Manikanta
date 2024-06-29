@@ -35,7 +35,7 @@ const Hero = () => {
           <FaInstagram className='icon' data-aos='zoom-in' />
           </a>
   
-          <a href="#" className="iconcover" >
+          <a href="https://www.facebook.com/people/Mohan-Surya-Manikanta-Kanakala/pfbid02TyGeGczdr5UJLaLnteJgQWcdrZwhyAKTyg22h5k85fghP2eBX5yywdWdcGxynsXfl/?mibextid=ZbWKwL" className="iconcover" >
             <FaFacebookF className='icon' data-aos='zoom-in'/>
             </a>
           <a href="https://github.com/KMSMANIKANTA" className="iconcover">

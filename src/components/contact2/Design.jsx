@@ -16,7 +16,7 @@ const Design = () => {
       </a>
     </button>
     <button className="card2">
-      <a href="#">
+      <a href="">
       <CiTwitter className='twitter icon'/>
       </a>
       </button>
@@ -28,7 +28,7 @@ const Design = () => {
       </a>
     </button>
     <button className="card4">
-      <a href="#">
+      <a href="https://www.facebook.com/people/Mohan-Surya-Manikanta-Kanakala/pfbid02TyGeGczdr5UJLaLnteJgQWcdrZwhyAKTyg22h5k85fghP2eBX5yywdWdcGxynsXfl/?mibextid=ZbWKwL">
      <FaFacebookF className='facebook icon'/>
      </a>
     </button>
