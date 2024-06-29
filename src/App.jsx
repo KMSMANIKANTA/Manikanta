@@ -17,6 +17,7 @@ const App = () => {
       <Heading heading={"My Skills"}/>
       <Skills/>
       <Heading heading={"Contact Me"}  />
+      
       <Contact/>
       <br /><br /><br />
       <br /><br /><br /><br /><br /><br /><br />
