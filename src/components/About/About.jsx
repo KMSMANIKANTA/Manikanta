@@ -21,11 +21,11 @@ const About = () => {
         </div>
         <div className="personal" data-aos='zoom-in'>
           <pre>
-            Name             :K.M.S.Manikanta <br />
-            Nationality      :Indian <br />
-            Age              :18 years <br />
-            Education        :B-tech 2nd Year <br />
-            College          :RGUKT NUZVID <br />
+            Name        :K.M.S.Manikanta <br />
+            Nationality :Indian <br />
+            Age         :18 years <br />
+            Education   :B-tech 2nd Year <br />
+            College     :RGUKT NUZVID <br />
           </pre>
         </div>
         <div className="line" data-aos='fade-right' ></div>
