@@ -1,7 +1,6 @@
 .hero{
   width:100%;
   overflow-x: hidden;
-  min-height: 100vh;
   display: flex;
   padding:150px 10%;
   justify-content: space-around;
