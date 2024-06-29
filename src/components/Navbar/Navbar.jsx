@@ -32,7 +32,7 @@ const Navbar = () => {
         }}>
         Home
         </Link></p>
-        <p data-aos='slide-right'><Link to='about' duration={2500}  offset={-150} onClick={()=>{
+        <p data-aos='slide-right'><Link to='about' duration={2500}  offset={-200} onClick={()=>{
           setToggle(false)
         }}>
         About Me
