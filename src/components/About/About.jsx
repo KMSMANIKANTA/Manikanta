@@ -16,7 +16,7 @@ const About = () => {
       </div>
       <div className="right" >
         <p className="first-text" data-aos='slide-up'>I am a skilled web developer with 2 years of experience  in the industry.My passion lies in creating captivating website designs and implementing them through frontend develpment.I take pride in staying up-to-date with current designs trends and leveraging my creativity to produce visually appealing and user-friendly websites.</p>
-        <div className="line" data-aos='fade-left'>
+        <div className="line" data-aos='fade-in'>
 
         </div>
         <div className="personal" data-aos='slide-up'>
