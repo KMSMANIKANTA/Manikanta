@@ -4,6 +4,7 @@ import Hero from './components/Hero/Hero'
 import About from './components/About/About'
 import Heading from './components/Heading/Heading'
 import Skills from './components/Skills/Skills'
+import Contact from './components/contact/Contact'
 
 const App = () => {
   
@@ -15,8 +16,10 @@ const App = () => {
       <About/>
       <Heading heading={"My Skills"}/>
       <Skills/>
+      <Heading heading={"Contact Me"}  />
+      <Contact/>
       <br /><br /><br />
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <br /><br /><br /><br /><br /><br /><br />
      </div>
 
   )

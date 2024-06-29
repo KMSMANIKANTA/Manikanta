@@ -43,7 +43,9 @@ const Navbar = () => {
         Skills
         </Link></p>
         <p data-aos='slide-right'>Projects</p>
-        <p data-aos='slide-right'>Contact</p>
+        <p data-aos='slide-right' ><Link to='contact' duration={2500} offset={-300} onClick={()=>{
+          setToggle(false)
+        }}>Contact Me</Link></p> 
       </div>
       <HiBars3BottomRight  onClick={()=>{
         setToggle(!toggle)

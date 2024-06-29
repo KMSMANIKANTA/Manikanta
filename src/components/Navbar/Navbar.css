@@ -8,12 +8,12 @@
   align-items: center;
   justify-content: space-around;
   transition: 1s;
+  z-index: 100000;
 }
 .activeNav{
   background-color: #243762;
   border-bottom: 2px solid gray;
-  box-shadow: 1px 1px 10px gray
-
+  box-shadow: 1px 1px 10px gray;
 }
 .logo{
   font-size: 20px;
@@ -34,7 +34,7 @@
 .navlinks p{
 position: relative;
   margin-left: 25px;
-  cursor: pointer;
+  cursor: pointer;z-index: 100000;
   color:white;
 }
  .navlinks p:after{
