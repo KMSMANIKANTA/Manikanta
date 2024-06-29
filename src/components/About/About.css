@@ -1,11 +1,10 @@
 .about{
   width:100%;
-  padding:100px;
+  padding:0px 10%;
   display: flex;
   min-height:100vh;
   justify-content: space-evenly;
   z-index: -1000;
-  /* align-items: center; */
 }
 .left{
   flex-basis: 40%;z-index: -1000;
