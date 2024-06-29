@@ -108,6 +108,10 @@
   .hero .content .second{
     font-size: 20px;
   }
+  .hero .content p{
+    font-size: 18px;
+    line-height: 1.2;
+  }
 }
 @media screen and (max-width:991px) and (min-width:768px){
   .hero{
