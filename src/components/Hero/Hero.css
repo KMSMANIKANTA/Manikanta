@@ -17,7 +17,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: red;z-index: -10000;
+  z-index: -10000;
 }
 .image img{
   margin-top: 160px;
